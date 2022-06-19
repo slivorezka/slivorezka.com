@@ -152,7 +152,7 @@
 <footer class="footer footer-default">
   <div class="container">
     <div class="copyright text-center">
-      &copy; 2020 <a href="/" rel="tooltip" data-original-title="Andriy Malyeyev" title="Andriy Malyeyev">Andriy
+      &copy; <?php echo date('Y'); ?> <a href="/" rel="tooltip" data-original-title="Andriy Malyeyev" title="Andriy Malyeyev">Andriy
       Malyeyev</a>
     </div>
   </div>
