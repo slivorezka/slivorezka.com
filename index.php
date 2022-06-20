@@ -58,14 +58,11 @@
       font-size: 12px;
       text-transform: initial;
       margin-left: 5px;
+      vertical-align: middle;
     }
 
     .come-back-alive {
       margin-left: 0;
-    }
-
-    .navbar .fa-brands {
-      vertical-align: middle;
     }
   </style>
 </head>
