@@ -136,7 +136,7 @@
         <a href="mailto:slivorezka@gmail.com" title="E-mail" rel="tooltip"
            data-original-title="E-mail" target="_blank"
            class="btn btn-just-icon btn-link btn-at"><i
-                    class="fa-brands fa-at"></i></a>
+                    class="fa-solid fa-at"></i></a>
         <a href="https://www.instagram.com/slivorezka" target="_blank"
            title="Instagram" rel="tooltip"
            data-original-title="Instagram"
