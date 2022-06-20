@@ -77,25 +77,25 @@
           <li class="nav-item">
               <a class="nav-link" rel="tooltip" title="Facebook" data-placement="bottom"
                  href="https://savelife.in.ua/en/donate-en/" target="_blank" data-original-title="ComeBackAlive">
-                  <i class="fas fa-flag"></i><span class="d-lg-none">ComeBackAlive</span>
+                 <i class="fas fa-flag"></i><span class="d-lg-none">ComeBackAlive</span>
               </a>
           </li>
         <li class="nav-item">
           <a class="nav-link" rel="tooltip" title="Facebook" data-placement="bottom"
              href="https://www.facebook.com/slivorezka" target="_blank" data-original-title="Facebook">
-            <i class="fas fa-facebook-square"></i><span class="d-lg-none">Facebook</span>
+              <i class="fa-brands fa-facebook-square"></i><span class="d-lg-none">Facebook</span>
           </a>
         </li>
         <li class="nav-item">
           <a class="nav-link" rel="tooltip" title="Linkedin" data-placement="bottom"
              href="https://www.linkedin.com/in/slivorezka" target="_blank" data-original-title="Linkedin">
-            <i class="fas fa-linkedin"></i><span class="d-lg-none">Linkedin</span>
+             <i class="fa-brands fa-linkedin"></i><span class="d-lg-none">Linkedin</span>
           </a>
         </li>
         <li class="nav-item">
           <a class="nav-link" rel="tooltip" title="Instagram" data-placement="bottom"
              href="https://www.instagram.com/slivorezka" target="_blank" data-original-title="Instagram">
-            <i class="fas fa-instagram"></i><span class="d-lg-none">Instagram</span>
+             <i class="fa-brands fa-instagram-square"></i><span class="d-lg-none">Instagram</span>
           </a>
         </li>
       </ul>
