@@ -53,10 +53,15 @@
     .navbar .navbar-nav .nav-item .nav-link {
       font-size: 24px;
     }
+
     .d-lg-none {
       font-size: 12px;
       text-transform: initial;
       margin-left: 5px;
+    }
+
+    .come-back-alive {
+      margin-left: 0;
     }
 
     .navbar .fa-brands {
@@ -91,7 +96,7 @@
               <a class="nav-link" rel="tooltip" title="ComeBackAlive" data-placement="bottom"
                  href="https://savelife.in.ua/en/donate-en/" target="_blank" data-original-title="ComeBackAlive">
                  <img src="./9153350_flag_country_nation_ukraine_design_icon.png" width="24" height="24"  alt="ComeBackAlive" title="ComeBackAlive"/>
-                  <span class="d-lg-none">ComeBackAlive</span>
+                  <span class="come-back-alive d-lg-none">ComeBackAlive</span>
               </a>
           </li>
         <li class="nav-item">
