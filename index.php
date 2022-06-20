@@ -49,6 +49,10 @@
         width: auto;
       }
     }
+
+    .navbar .navbar-nav .nav-item .nav-link {
+      font-size: 24px;
+    }
   </style>
 </head>
 
