@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" xmlns="http://www.w3.org/1999/html">
 <head>
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-164232230-1"></script>
+  <script async src="//www.googletagmanager.com/gtag/js?id=UA-164232230-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag() { dataLayer.push(arguments); }
@@ -34,7 +34,7 @@
   <link rel="stylesheet" type="text/css"
         href="http://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons" />
   <link rel="stylesheet" type="text/css"
-        href="http://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
   <link rel="stylesheet" type="text/css"
         href="http://cdnjs.cloudflare.com/ajax/libs/material-kit/2.0.6/css/material-kit.min.css" />
   <style>
@@ -54,7 +54,7 @@
 
 <body class="profile-page sidebar-collapse">
 <noscript>
-  <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TSN52K3" height="0" width="0"
+  <iframe src="//www.googletagmanager.com/ns.html?id=GTM-TSN52K3" height="0" width="0"
           style="display: none; visibility: hidden"></iframe>
   You need to enable JavaScript to run this app.
 </noscript>
@@ -74,6 +74,12 @@
     </div>
     <div class="collapse navbar-collapse">
       <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+              <a class="nav-link" rel="tooltip" title="Facebook" data-placement="bottom"
+                 href="https://savelife.in.ua/en/donate-en/" target="_blank" data-original-title="ComeBackAlive">
+                  <i class="fa fas fa-flag"></i><span class="d-lg-none">ComeBackAlive</span>
+              </a>
+          </li>
         <li class="nav-item">
           <a class="nav-link" rel="tooltip" title="Facebook" data-placement="bottom"
              href="https://www.facebook.com/slivorezka" target="_blank" data-original-title="Facebook">
@@ -111,16 +117,16 @@
           </div>
           <div class="name">
             <h3 class="title">Andriy Malyeyev</h3>
-            <h5>PHP Developer</h5>
+            <h5>Full Stack Developer</h5>
           </div>
         </div>
       </div>
     </div>
     <div class="description text-center">
       <p style="font-size: 16px;">
-        Hi! My name is Andriy Malyeyev. I am a PHP Developer at <a href="https://www.dataart.com" target="_blank"
+        Hi! My name is Andriy Malyeyev. I am a Full Stack Developer at <a href="//www.dataart.com" target="_blank"
                                                                    rel="tooltip" data-original-title="DataArt" title="DataArt">DataArt</a><br>
-        Also, I live in <a href="https://goo.gl/maps/FkwBxwQpy1k2AmoG7" target="_blank" rel="tooltip"
+        Also, I live in <a href="//goo.gl/maps/FkwBxwQpy1k2AmoG7" target="_blank" rel="tooltip"
                            data-original-title="Kharkiv, Ukraine" title="Kharkiv, Ukraine"><i class="fa fa-map-marker"></i> Kharkiv,
         Ukraine 🇺🇦</a><br>
         Feel free ping me in these resources below.
@@ -157,10 +163,10 @@
     </div>
   </div>
 </footer>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.min.js"></script>
 <script src="./popper.min.js"></script>
 <script src="./bootstrap-material-design.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/material-kit/2.0.6/js/material-kit.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/material-kit/2.0.6/js/material-kit.min.js"></script>
 </body>
 </html>
