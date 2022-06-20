@@ -58,6 +58,10 @@
       text-transform: initial;
       margin-left: 5px;
     }
+
+    .navbar .fa-brands {
+      vertical-align: middle;
+    }
   </style>
 </head>
 
