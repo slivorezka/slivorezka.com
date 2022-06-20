@@ -146,7 +146,7 @@
          data-original-title="Twitter" class="btn btn-just-icon btn-link btn-twitter"><i class="fas fa-twitter"></i></a>
       <a href="https://www.instagram.com/slivorezka" target="_blank" title="Instagram" rel="tooltip"
          data-original-title="Instagram" class="btn btn-just-icon btn-link btn-instagram"><i
-              class="fas fa-instagram"></i></a>
+              class="fa-brands fa-linkedin"></i></a>
       <a href="https://wa.me/380959169240" target="_blank" title="WhatsApp" rel="tooltip"
          data-original-title="WhatsApp" class="btn btn-just-icon btn-link btn-whatsapp"><i
               class="fas fa-whatsapp"></i></a>
