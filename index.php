@@ -52,6 +52,7 @@
 
     .navbar .navbar-nav .nav-item .nav-link {
       font-size: 24px;
+      margin: 0;
     }
 
     .d-lg-none {
