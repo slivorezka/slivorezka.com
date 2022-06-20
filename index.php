@@ -77,25 +77,25 @@
           <li class="nav-item">
               <a class="nav-link" rel="tooltip" title="Facebook" data-placement="bottom"
                  href="https://savelife.in.ua/en/donate-en/" target="_blank" data-original-title="ComeBackAlive">
-                  <i class="fa fas fa-flag"></i><span class="d-lg-none">ComeBackAlive</span>
+                  <i class="fas fa-flag"></i><span class="d-lg-none">ComeBackAlive</span>
               </a>
           </li>
         <li class="nav-item">
           <a class="nav-link" rel="tooltip" title="Facebook" data-placement="bottom"
              href="https://www.facebook.com/slivorezka" target="_blank" data-original-title="Facebook">
-            <i class="fa fa-facebook-square"></i><span class="d-lg-none">Facebook</span>
+            <i class="fas fa-facebook-square"></i><span class="d-lg-none">Facebook</span>
           </a>
         </li>
         <li class="nav-item">
           <a class="nav-link" rel="tooltip" title="Linkedin" data-placement="bottom"
              href="https://www.linkedin.com/in/slivorezka" target="_blank" data-original-title="Linkedin">
-            <i class="fa fa-linkedin"></i><span class="d-lg-none">Linkedin</span>
+            <i class="fas fa-linkedin"></i><span class="d-lg-none">Linkedin</span>
           </a>
         </li>
         <li class="nav-item">
           <a class="nav-link" rel="tooltip" title="Instagram" data-placement="bottom"
              href="https://www.instagram.com/slivorezka" target="_blank" data-original-title="Instagram">
-            <i class="fa fa-instagram"></i><span class="d-lg-none">Instagram</span>
+            <i class="fas fa-instagram"></i><span class="d-lg-none">Instagram</span>
           </a>
         </li>
       </ul>
@@ -127,31 +127,31 @@
         Hi! My name is Andriy Malyeyev. I am a Full Stack Developer at <a href="//www.dataart.com" target="_blank"
                                                                    rel="tooltip" data-original-title="DataArt" title="DataArt">DataArt</a><br>
         Also, I live in <a href="//goo.gl/maps/FkwBxwQpy1k2AmoG7" target="_blank" rel="tooltip"
-                           data-original-title="Kharkiv, Ukraine" title="Kharkiv, Ukraine"><i class="fa fa-map-marker"></i> Kharkiv,
+                           data-original-title="Kharkiv, Ukraine" title="Kharkiv, Ukraine"><i class="fas fa-map-marker"></i> Kharkiv,
         Ukraine 🇺🇦</a><br>
         Feel free ping me in these resources below.
       </p>
     </div>
     <div class="text-center">
       <a href="mailto:slivorezka@gmail.com" title="E-mail" rel="tooltip" data-original-title="E-mail" target="_blank"
-         class="btn btn-just-icon btn-link btn-at"><i class="fa fa-at"></i></a>
+         class="btn btn-just-icon btn-link btn-at"><i class="fas fa-at"></i></a>
       <a href="https://www.linkedin.com/in/slivorezka" title="Linkedin" rel="tooltip" data-original-title="Linkedin"
-         target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
+         target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fas fa-linkedin"></i></a>
       <a href="https://github.com/slivorezka" target="_blank" title="GitHub" rel="tooltip"
-         data-original-title="GitHub" class="btn btn-just-icon btn-link btn-github"><i class="fa fa-github"></i></a>
+         data-original-title="GitHub" class="btn btn-just-icon btn-link btn-github"><i class="fas fa-github"></i></a>
       <a href="https://www.facebook.com/slivorezka" target="_blank" title="Facebook" rel="tooltip"
          data-original-title="Facebook" class="btn btn-just-icon btn-link btn-facebook"><i
-              class="fa fa-facebook"></i></a>
+              class="fas fa-facebook"></i></a>
       <a href="https://twitter.com/slivorezka" target="_blank" title="Twitter" rel="tooltip"
-         data-original-title="Twitter" class="btn btn-just-icon btn-link btn-twitter"><i class="fa fa-twitter"></i></a>
+         data-original-title="Twitter" class="btn btn-just-icon btn-link btn-twitter"><i class="fas fa-twitter"></i></a>
       <a href="https://www.instagram.com/slivorezka" target="_blank" title="Instagram" rel="tooltip"
          data-original-title="Instagram" class="btn btn-just-icon btn-link btn-instagram"><i
-              class="fa fa-instagram"></i></a>
+              class="fas fa-instagram"></i></a>
       <a href="https://wa.me/380959169240" target="_blank" title="WhatsApp" rel="tooltip"
          data-original-title="WhatsApp" class="btn btn-just-icon btn-link btn-whatsapp"><i
-              class="fa fa-whatsapp"></i></a>
+              class="fas fa-whatsapp"></i></a>
       <a href="https://t.me/slivorezka" target="_blank" title="Telegram" rel="tooltip" data-original-title="Telegram"
-         class="btn btn-just-icon btn-link btn-telegram"><i class="fa fa-telegram"></i></a>
+         class="btn btn-just-icon btn-link btn-telegram"><i class="fas fa-telegram"></i></a>
     </div>
   </div>
 </div>
