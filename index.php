@@ -57,6 +57,7 @@
 
     .d-lg-none {
       font-size: 13px;
+      font-weight: 500;
       text-transform: initial;
       margin-left: 5px;
       vertical-align: bottom;
