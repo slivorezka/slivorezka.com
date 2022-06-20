@@ -79,9 +79,12 @@
     <div class="collapse navbar-collapse">
       <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-              <a class="nav-link" rel="tooltip" title="Facebook" data-placement="bottom"
+              <a class="nav-link" rel="tooltip" title="ComeBackAlive" data-placement="bottom"
                  href="https://savelife.in.ua/en/donate-en/" target="_blank" data-original-title="ComeBackAlive">
-                 <i class="fas fa-flag"></i><span class="d-lg-none">ComeBackAlive</span>
+                <svg id="Flat" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><title/><g>
+                        <rect fill="#2a75e6" height="352" rx="10" width="496" x="8" y="80"/>
+                        <path d="M8,256H504a0,0,0,0,1,0,0V422a10,10,0,0,1-10,10H18A10,10,0,0,1,8,422V256a0,0,0,0,1,0,0Z" fill="#f9d549"/></g></svg>
+                  <span class="d-lg-none">ComeBackAlive</span>
               </a>
           </li>
         <li class="nav-item">
