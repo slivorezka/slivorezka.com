@@ -59,7 +59,7 @@
       font-size: 12px;
       text-transform: initial;
       margin-left: 5px;
-      vertical-align: middle;
+      vertical-align: bottom;
     }
 
     .come-back-alive {
