@@ -138,12 +138,12 @@
       <a href="https://www.linkedin.com/in/slivorezka" title="Linkedin" rel="tooltip" data-original-title="Linkedin"
          target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa-brands fa-linkedin-in"></i></a>
       <a href="https://github.com/slivorezka" target="_blank" title="GitHub" rel="tooltip"
-         data-original-title="GitHub" class="btn btn-just-icon btn-link btn-github"><i class="fa-brands fa-github-in"></i></a>
+         data-original-title="GitHub" class="btn btn-just-icon btn-link btn-github"><i class="fa-brands fa-github"></i></a>
       <a href="https://www.facebook.com/slivorezka" target="_blank" title="Facebook" rel="tooltip"
          data-original-title="Facebook" class="btn btn-just-icon btn-link btn-facebook"><i
               class="fa-brands fa-facebook"></i></a>
       <a href="https://twitter.com/slivorezka" target="_blank" title="Twitter" rel="tooltip"
-         data-original-title="Twitter" class="btn btn-just-icon btn-link btn-twitter"><i class="fa-brands fa-twitter-in"></i></a>
+         data-original-title="Twitter" class="btn btn-just-icon btn-link btn-twitter"><i class="fa-brands fa-twitter"></i></a>
       <a href="https://www.instagram.com/slivorezka" target="_blank" title="Instagram" rel="tooltip"
          data-original-title="Instagram" class="btn btn-just-icon btn-link btn-instagram"><i
               class="fa-brands fa-instagram"></i></a>
@@ -151,7 +151,7 @@
          data-original-title="WhatsApp" class="btn btn-just-icon btn-link btn-whatsapp"><i
               class="fa-brands fa-whatsapp"></i></a>
       <a href="https://t.me/slivorezka" target="_blank" title="Telegram" rel="tooltip" data-original-title="Telegram"
-         class="btn btn-just-icon btn-link btn-telegram"><i class="fa-brands fa-telegram-in"></i></a>
+         class="btn btn-just-icon btn-link btn-telegram"><i class="fa-brands fa-telegram"></i></a>
     </div>
   </div>
 </div>
