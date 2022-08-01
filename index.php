@@ -142,8 +142,8 @@
     </div>
     <div class="description text-center">
       <p style="font-size: 16px;">
-        Hi! My name is Andriy Malyeyev. I am a Full Stack Developer at <a href="//www.dataart.com" target="_blank"
-                                                                   rel="tooltip" data-original-title="DataArt" title="DataArt">DataArt</a><br>
+        Hi! My name is Andriy Malyeyev. I am a Web Developer at <a href="https://ffwagency.com" target="_blank"
+                                                                   rel="tooltip" data-original-title="FFW Agency" title="FFW Agency">FFW Agency</a><br>
         Also, I live in <a href="//goo.gl/maps/FkwBxwQpy1k2AmoG7" target="_blank" rel="tooltip"
                            data-original-title="Kharkiv, Ukraine" title="Kharkiv, Ukraine"><i class="fas fa-map-marker"></i> Kharkiv,
         Ukraine 🇺🇦</a><br>
