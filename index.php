@@ -135,7 +135,7 @@
           </div>
           <div class="name">
             <h3 class="title">Andriy Malyeyev</h3>
-            <h5>Full Stack Developer</h5>
+            <h5>Web Developer</h5>
           </div>
         </div>
       </div>
