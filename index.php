@@ -32,11 +32,11 @@
   <link rel="icon" type="image/png" sizes="96x96" href="./favicon-96x96.png">
   <link rel="icon" type="image/png" sizes="16x16" href="./favicon-16x16.png">
   <link rel="stylesheet" type="text/css"
-        href="http://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons" />
+        href="//fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons" />
   <link rel="stylesheet" type="text/css"
-        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+        href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
   <link rel="stylesheet" type="text/css"
-        href="http://cdnjs.cloudflare.com/ajax/libs/material-kit/2.0.6/css/material-kit.min.css" />
+        href="//cdnjs.cloudflare.com/ajax/libs/material-kit/2.0.6/css/material-kit.min.css" />
   <style>
     .main {
       margin: -60px auto auto;
