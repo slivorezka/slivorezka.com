@@ -143,7 +143,7 @@
     <div class="description text-center">
       <p style="font-size: 16px;">
         Hi! My name is Andriy Malyeyev. I am a Web Developer<br>
-        Also, I live in <a href="//goo.gl/maps/FkwBxwQpy1k2AmoG7" target="_blank" rel="tooltip"
+        Also, I live in <a href="//maps.app.goo.gl/C9Wn9CFnkviz1hD68" target="_blank" rel="tooltip"
                            data-original-title="Kharkiv, Ukraine" title="Kharkiv, Ukraine"><i class="fas fa-map-marker"></i> Kharkiv,
         Ukraine 🇺🇦</a><br>
         Feel free ping me in these resources below.
