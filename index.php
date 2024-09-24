@@ -323,15 +323,14 @@
           </div>
           <div class="name">
             <h3 class="title">Andriy Malyeyev</h3>
-            <h5>Web Developer</h5>
+            <h5>CEO & Founder at <a href="https://shyk.systems">ShykSystems</a></h5>
           </div>
         </div>
       </div>
     </div>
     <div class="description text-center">
       <p style="font-size: 16px;">
-        Hi! My name is Andriy Malyeyev. I am CEO & Founder at <a href="https://shyk.systems">ShykSystems</a><br>
-        Also, I live in Kyiv, Ukraine 🇺🇦<br>
+        Hi! My name is Andriy Malyeyev. I live in Kyiv, Ukraine 🇺🇦<br>
         Feel free ping me in these resources below.
       </p>
     </div>
