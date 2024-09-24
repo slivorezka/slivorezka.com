@@ -330,7 +330,8 @@
     </div>
     <div class="description text-center">
       <p style="font-size: 16px;">
-        Hi! My name is Andriy Malyeyev. I am CEO & Founder at <a href="https://shyk.systems">ShykSystems</a><br>
+        Hi! My name is Andriy Malyeyev.<br>
+        I am CEO & Founder at <a href="https://shyk.systems">ShykSystems</a><br>
         Also, I live in Kyiv, Ukraine 🇺🇦<br>
         Feel free ping me in these resources below.
       </p>
