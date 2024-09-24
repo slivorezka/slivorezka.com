@@ -330,10 +330,8 @@
     </div>
     <div class="description text-center">
       <p style="font-size: 16px;">
-        Hi! My name is Andriy Malyeyev. I am a Web Developer<br>
-        Also, I live in <a href="//maps.app.goo.gl/C9Wn9CFnkviz1hD68" target="_blank" rel="tooltip"
-                           data-original-title="Kharkiv, Ukraine" title="Kharkiv, Ukraine"><i class="fas fa-map-marker"></i> Kharkiv,
-        Ukraine 🇺🇦</a><br>
+        Hi! My name is Andriy Malyeyev. I am CEO & Founder at <a href="https://shyk.systems">ShykSystems</a><br>
+        Also, I live in Kyiv, Ukraine 🇺🇦<br>
         Feel free ping me in these resources below.
       </p>
     </div>
@@ -352,7 +350,7 @@
            data-original-title="WhatsApp"
            class="btn btn-just-icon btn-link btn-whatsapp"><i
                     class="fa-brands fa-whatsapp"></i></a>
-        <a href="https://www.linkedin.com/in/slivorezka" title="Linkedin"
+        <a href="https://www.linkedin.com/in/andriy-malyeyev" title="Linkedin"
            rel="tooltip" data-original-title="Linkedin"
            target="_blank" class="btn btn-just-icon btn-link btn-linkedin"><i
                     class="fa-brands fa-linkedin-in"></i></a>
