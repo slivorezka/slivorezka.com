@@ -71,13 +71,13 @@
         display: none;
       }
       .shyk-systems-blue {
-        display: block;
+        display: inline-block;
       }
     }
 
     @media (min-width: 991px) {
       .shyk-systems-white {
-        display: block;
+        display: inline-block;
       }
       .shyk-systems-blue {
         display: none;
