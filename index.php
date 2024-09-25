@@ -279,13 +279,20 @@
     </div>
     <div class="collapse navbar-collapse">
       <ul class="navbar-nav ml-auto">
-          <li class="nav-item">
-              <a class="nav-link" rel="tooltip" title="ComeBackAlive" data-placement="bottom"
-                 href="https://savelife.in.ua/en/donate-en/" target="_blank" data-original-title="ComeBackAlive">
-                 <img src="./9153350_flag_country_nation_ukraine_design_icon.png" width="24" height="24"  alt="ComeBackAlive" title="ComeBackAlive"/>
-                  <span class="come-back-alive d-lg-none">ComeBackAlive</span>
-              </a>
-          </li>
+        <li class="nav-item">
+          <a class="nav-link" rel="tooltip" title="ShykSystems" data-placement="bottom"
+            href="https://shyk.systems" target="_blank" data-original-title="ShykSystems">
+            <img src="./shyk-systems.png" width="24" height="24"  alt="ShykSystems" title="ShykSystems"/>
+            <span class="come-back-alive d-lg-none">ShykSystems</span>
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" rel="tooltip" title="ComeBackAlive" data-placement="bottom"
+             href="https://savelife.in.ua/en/donate-en" target="_blank" data-original-title="ComeBackAlive">
+             <img src="./9153350_flag_country_nation_ukraine_design_icon.png" width="24" height="24"  alt="ComeBackAlive" title="ComeBackAlive"/>
+             <span class="come-back-alive d-lg-none">ComeBackAlive</span>
+          </a>
+        </li>
         <li class="nav-item">
           <a class="nav-link" rel="tooltip" title="Facebook" data-placement="bottom"
              href="https://www.facebook.com/slivorezka" target="_blank" data-original-title="Facebook">
@@ -294,7 +301,7 @@
         </li>
         <li class="nav-item">
           <a class="nav-link" rel="tooltip" title="Linkedin" data-placement="bottom"
-             href="https://www.linkedin.com/in/slivorezka" target="_blank" data-original-title="Linkedin">
+             href="https://www.linkedin.com/in/andriy-malyeyev" target="_blank" data-original-title="Linkedin">
              <i class="fa-brands fa-linkedin"></i><span class="d-lg-none">Linkedin</span>
           </a>
         </li>
