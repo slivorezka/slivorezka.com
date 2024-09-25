@@ -66,6 +66,23 @@
     .come-back-alive {
       margin-left: 0;
     }
+    @media (max-width: 991px) {
+      .shyk-systems-white {
+        display: none;
+      }
+      .shyk-systems-blue {
+        display: block;
+      }
+    }
+
+    @media (min-width: 991px) {
+      .shyk-systems-white {
+        display: block;
+      }
+      .shyk-systems-blue {
+        display: none;
+      }
+    }
     /* NY */
     .lightrope {
       text-align: center;
@@ -282,7 +299,8 @@
         <li class="nav-item">
           <a class="nav-link" rel="tooltip" title="ShykSystems" data-placement="bottom"
             href="https://shyk.systems" target="_blank" data-original-title="ShykSystems">
-            <img src="./shyk-systems.png" width="24" height="24"  alt="ShykSystems" title="ShykSystems"/>
+            <img src="./shyk-systems-white.png" class="shyk-systems-white" width="24" height="24"  alt="ShykSystems" title="ShykSystems"/>
+            <img src="./shyk-systems-blue.png" class="shyk-systems-blue" width="24" height="24"  alt="ShykSystems" title="ShykSystems"/>
             <span class="come-back-alive d-lg-none">ShykSystems</span>
           </a>
         </li>
